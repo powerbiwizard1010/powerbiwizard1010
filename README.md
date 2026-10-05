@@ -7,15 +7,15 @@ I create practical Power BI projects, DAX solutions, dashboards, data models, an
 
 My goal is simple: make Power BI easier to understand and more useful.
 
-🔮 What You'll Find Here
-📊 Power BI dashboards & reports
-🧠 DAX measures, calculations & techniques
-🔄 Power Query transformations
-🏗️ Data modeling & star schema examples
-🗄️ SQL queries & data preparation
-📈 Data analytics & business intelligence projects
-💡 Power BI tips, tricks & best practices
-🚀 About This Profile
+🔮 What You'll Find Here <br>
+📊 Power BI dashboards & reports <br>
+🧠 DAX measures, calculations & techniques <br>
+🔄 Power Query transformations <br>
+🏗️ Data modeling & star schema examples<br>
+🗄️ SQL queries & data preparation<br>
+📈 Data analytics & business intelligence projects<br>
+💡 Power BI tips, tricks & best practices<br>
+🚀 About This Profile<br>
 
 I'm continuously building and sharing projects to explore Power BI, DAX, data modeling, and business intelligence through practical examples.
 
